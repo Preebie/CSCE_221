@@ -1,0 +1,4 @@
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Progrmming Assignment 1\Debug\Programming Assignment 1.exe
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Progrmming Assignment 1\Debug\Programming Assignment 1.pdb
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Programming Assignment 1\Queue Class\Debug\Programming Assignment 1.exe
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Programming Assignment 1\Queue Class\Debug\Programming Assignment 1.pdb

@@ -1,0 +1,15 @@
+﻿  Source2.cpp
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Programming Assignment 4\Binary Heap\Source2.cpp(94,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Programming Assignment 4\Binary Heap\Source2.cpp(93): message : while compiling class template member function 'void Heap_Quick<int>::quicksort(std::vector<Obj,std::allocator<Obj>> &,int,int)'
+          with
+          [
+              Obj=int
+          ]
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Programming Assignment 4\Binary Heap\Source2.cpp(132): message : see reference to function template instantiation 'void Heap_Quick<int>::quicksort(std::vector<Obj,std::allocator<Obj>> &,int,int)' being compiled
+          with
+          [
+              Obj=int
+          ]
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Programming Assignment 4\Binary Heap\Source2.cpp(125): message : see reference to class template instantiation 'Heap_Quick<int>' being compiled
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Programming Assignment 4\Binary Heap\Source2.cpp(118,2): warning C4018: '<': signed/unsigned mismatch
+  Binary Heap.vcxproj -> C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Programming Assignments\Programming Assignment 4\Binary Heap\Debug\Binary Heap.exe

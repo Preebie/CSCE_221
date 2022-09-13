@@ -1,0 +1,4 @@
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Homework 1 - Recursive Binary\Debug\Homework 1 - Recursive Binary.exe
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Homework 1 - Recursive Binary\Debug\Homework 1 - Recursive Binary.pdb
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Homework 1 - Binary Recursion\Homework 1 - Recursive Binary\Debug\Homework 1 - Recursive Binary.exe
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 221\Homework 1 - Binary Recursion\Homework 1 - Recursive Binary\Debug\Homework 1 - Recursive Binary.pdb
